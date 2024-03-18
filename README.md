@@ -1,2 +1,2 @@
-# DevOps-Notes
-Basic Dev-Ops Notes
+# DevOps Project
+Basic Dev-Ops Project
